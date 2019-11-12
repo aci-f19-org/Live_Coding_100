@@ -1,6 +1,6 @@
 ## Live Coding
 
-### Due Date : December 12 ??  
+### Due Date : December 10 ??  
 
 ### Goals:
 
